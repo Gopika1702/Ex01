@@ -28,14 +28,15 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-      ![OUT 1](https://user-images.githubusercontent.com/127816473/226171024-5eca66c0-4934-41ad-ae8b-f4c86da9dfcf.png)
-      ![OUT 2](https://user-images.githubusercontent.com/127816473/226171176-bc1b0ca7-c57b-4b89-87b6-8a8cad34a5b8.png)
-      ![OUT 3](https://user-images.githubusercontent.com/127816473/226171215-e85004b7-f730-4743-a762-8acd3a510831.png)
-      ![OUT 4](https://user-images.githubusercontent.com/127816473/226171236-a6e9c556-84ec-46fd-9142-1abb864a2a14.png)
-      ![OUT 5](https://user-images.githubusercontent.com/127816473/226171259-7ce586d0-a7e2-4642-9c61-a186dbf2d855.png)
-      ![OUT 6](https://user-images.githubusercontent.com/127816473/226171293-7d1390cb-9f17-48d6-9308-8dd5e1e33ef8.png)
-      ![OUT 7](https://user-images.githubusercontent.com/127816473/226171311-f8fd6fc4-67cc-4fd3-9463-c254a776437a.png)
-      ![OUT 8](https://user-images.githubusercontent.com/127816473/226171331-0a6d5d10-056c-443e-8fff-73bae9f2f7a5.png)
+![OUT 1](https://user-images.githubusercontent.com/127816473/226172970-146a6aaa-6c4b-4e87-b889-7211142b55b3.png)
+![OUT 2](https://user-images.githubusercontent.com/127816473/226172973-29d31ad2-ec43-4e9b-aebb-a4ab47ae2428.png)
+![OUT 3](https://user-images.githubusercontent.com/127816473/226172974-07fdc292-86bb-4ca7-90d3-bbce32da4456.png)
+![OUT 4](https://user-images.githubusercontent.com/127816473/226172976-fa478468-78c4-410e-9e5f-01a7e1d21db2.png)
+![OUT 5](https://user-images.githubusercontent.com/127816473/226172978-7fb9a01a-2eef-4fce-bf40-99413768b907.png)
+![OUT 6](https://user-images.githubusercontent.com/127816473/226172980-11e60c73-dba0-472a-ab40-eb6ed073ec99.png)
+![OUT 7](https://user-images.githubusercontent.com/127816473/226172982-76453af4-c672-49be-98a4-71d526fdadaf.png)
+![OUT 8](https://user-images.githubusercontent.com/127816473/226172983-0065a65a-d828-4e70-a27f-020e65bef092.png)
+
 
 
 ## RESULT
